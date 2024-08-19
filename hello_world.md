@@ -1,2 +1,5 @@
-Hello, World!
-Hello!
+#Hello, World!#
+*Hello!*
+**Hi!**
+
+~~Bye!~~
